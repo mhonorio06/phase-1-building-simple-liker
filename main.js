@@ -7,6 +7,18 @@ const likedHearts = document.getElementsByClassName("like-glyph")
 
 
 
+.then(function () {
+  
+})
+
+.catch( function (error) {
+  
+    
+  } )
+
+
+
+
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
 //------------------------------------------------------------------------------
